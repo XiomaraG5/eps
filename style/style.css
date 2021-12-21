@@ -1,0 +1,35 @@
+html{
+    min-height: 50%;
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    background-color: #130468ec;
+    min-height: 40%;
+    padding-bottom: 5rem;
+    font-size: 13px;
+}
+
+h1{
+    color: white;
+}
+.buscardor{
+    display: flex;
+    gap: 2%;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 30px;
+    padding: 1%;
+    background: #27158dec;
+    width: 45%;
+    font-size: 1rem;
+}
+#sura{
+    color: white;
+}
+
+.label{
+    color: white;
+}
