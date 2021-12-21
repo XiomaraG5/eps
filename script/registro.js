@@ -1,4 +1,4 @@
-const formulari = document.getElementById("formulario")
+const formulario = document.getElementById("formulario")
 
 const usuarios = []
 
